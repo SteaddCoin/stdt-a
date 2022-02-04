@@ -1,2 +1,2 @@
 # stdt-a
-Steadd Token At Algoran BlockCHain
+Steadd Token At Algoran Blockchain
